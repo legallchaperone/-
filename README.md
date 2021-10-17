@@ -38,8 +38,13 @@
 
 #### 2.2 理科
 
+[数学.pdf](https://github.com/legallchaperone/Accumulation/files/7359775/default.pdf)
 
+[化学.pdf](https://github.com/legallchaperone/Accumulation/files/7359777/default.pdf)
 
+[物理.pdf](https://github.com/legallchaperone/Accumulation/files/7359780/default.pdf)
+
+[生物.pdf](https://github.com/legallchaperone/Accumulation/files/7359781/default.pdf)
 
 
 
