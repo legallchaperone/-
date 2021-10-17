@@ -602,3 +602,4 @@ Tragedy, he perceived, belonged to the ancient time, to a time when there were s
 
 
 ### 笔记
+####2.1文科
