@@ -1,11 +1,11 @@
 # 积累
 ## 总目录
 1. [书摘](github.com/legallchaperone/-#6)
-2. [笔记](github.com/legallchaperone/-#600)
-  2.1文科
-    2.1.1语文
-    2.1.2政史地
-  2.2理科
+2. [笔记](github.com/legallchaperone/Accumulation#600)
+  2.1 文科
+    2.1.1 语文
+    2.1.2 政史地
+  2.2 理科
 
 ### 书摘
 [点此处下载pdf文件](file:///Users/chenwenxin/Library/Mobile%20Documents/com~apple~Pages/Documents/%E4%B9%A6%E6%91%982.pdf)
