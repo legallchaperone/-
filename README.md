@@ -1,7 +1,7 @@
 # 积累
 ## 总目录
 1. [书摘](github.com/legallchaperone/-#6)
-2. [笔记](github.com/legallchaperone/Accumulation#600)
+2. [笔记](github.com/legallchaperone/Accumulation#2-)
   2.1 文科
     2.1.1 语文
     2.1.2 政史地
